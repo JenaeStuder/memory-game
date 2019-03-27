@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "name": "Zebra Vans",
+        "image": "./assets/zebravan.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Gold Vans",
+        "image": "./assets/goldvans.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Disney Vans",
+        "image": "./assets/disneyvans.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Ashley Vans",
+        "image": "./assets/ashleyvans.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Hero Vans",
+        "image": "./assets/herovans.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Oracle Vans",
+        "image": "./assets/orcaclevans.png"
+    },
+    {
+        "id": 7,
+        "name": "Floral Vans",
+        "image": "./assets/floralvans.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "Flame Vans",
+        "image": "./assets/flamevans.png"
+    },
+    {
+        "id": 9,
+        "name": "Rainbow Vans",
+        "image": "./assets/rainbowvans.png"
+    },
+    {
+        "id": 10,
+        "name": "Multi Vans",
+        "image": "./assets/multicoloredcheckvan.png"
+    },
+    {
+        "id": 11,
+        "name": "Yellow Vans",
+        "image": "./assets/yellowcheckvans.png"
+    },
+    {
+        "id": 12,
+        "name": "Ombre Vans",
+        "image": "./assets/ombrevans.png"
+    },
+    {
+        "id": 13,
+        "name": "Purple Vans",
+        "image": "./assets/purplevans.png"
+    },
+    {
+        "id": 14,
+        "name": "Rainbow Check Vans",
+        "image": "./assets/rainbowcheckvan.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Tie Dye Vans",
+        "image": "./assets/tiedyevans.jpg"
+    }
+]
